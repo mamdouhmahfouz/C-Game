@@ -1,0 +1,3 @@
+C:/Users/mamdo/CLionProjects/game2/cmake-build-debug/CMakeFiles/game2.dir
+C:/Users/mamdo/CLionProjects/game2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mamdo/CLionProjects/game2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

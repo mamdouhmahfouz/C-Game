@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1703042520 source:c:\users\mohta\onedrive\desktop\c++ project\main.cpp
+	<iostream>
+	"Character.h"
+	"object.h"
+	"Gun.h"
+	"Hero.h"
+	"Pistol.h"
+	"Rifle.h"
+	"Bazooka.h"
+	"Monster.h"
+	"MedicHero.h"
+	"DemolitionHero.h"
+	"GhostMonster.h"
+	"TankMonster.h"
+	"Item.h"
+	"Ammo.h"
+	"Potion.h"
+	<ctime>
+	<limits>
+	<string>
+
+1702923885 c:\users\mohta\onedrive\desktop\c++ project\object.h
+	<iostream>
+
+1702938775 c:\users\mohta\onedrive\desktop\c++ project\gun.h
+	"Hero.h"
+
+1702854932 c:\users\mohta\onedrive\desktop\c++ project\character.h
+	"Object.h"
+
+1702938687 c:\users\mohta\onedrive\desktop\c++ project\hero.h
+	"Character.h"
+	"Ammo.h"
+	"Potion.h"
+	"Monster.h"
+
+1703031165 c:\users\mohta\onedrive\desktop\c++ project\pistol.h
+	"Gun.h"
+
+1703030334 c:\users\mohta\onedrive\desktop\c++ project\rifle.h
+	"Gun.h"
+
+1703031165 c:\users\mohta\onedrive\desktop\c++ project\bazooka.h
+	"Gun.h"
+
+1702855380 c:\users\mohta\onedrive\desktop\c++ project\monster.h
+	"Character.h"
+
+1702892833 c:\users\mohta\onedrive\desktop\c++ project\medichero.h
+	"Hero.h"
+
+1702931636 c:\users\mohta\onedrive\desktop\c++ project\demolitionhero.h
+	"Hero.h"
+
+1702855736 c:\users\mohta\onedrive\desktop\c++ project\ghostmonster.h
+	"Monster.h"
+
+1702855826 c:\users\mohta\onedrive\desktop\c++ project\tankmonster.h
+	"Monster.h"
+
+1702855907 c:\users\mohta\onedrive\desktop\c++ project\item.h
+	"Object.h"
+
+1702890979 c:\users\mohta\onedrive\desktop\c++ project\ammo.h
+	"Item.h"
+
+1702856027 c:\users\mohta\onedrive\desktop\c++ project\potion.h
+	"Item.h"
+
